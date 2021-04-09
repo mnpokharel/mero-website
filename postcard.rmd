@@ -1,0 +1,18 @@
+---
+title: "Mandira Pokharel"
+image: "images/pic.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/mandira-pokharel-41b385179//"
+  - label: Twitter
+    url: "https://twitter.com/"
+  - label: GitHub
+    url: "https://github.com/"
+  - label: Email
+    url: "mailto:mandirapokharel33@gmail.com"
+output:
+  postcards::jolla
+---
+ 
+I am a Master’s second year Forestry student concentrating in Forest Operations. 
+

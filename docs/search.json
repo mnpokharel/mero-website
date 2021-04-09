@@ -1,0 +1,41 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-04-06T13:00:19-07:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Mandira Pokharel",
+      "author": [],
+      "contents": "\r\nWelcome to my new website. See my CV for more information: CV\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-04-09T09:31:58-07:00"
+    },
+    {
+      "path": "postcard.html",
+      "title": "Mandira Pokharel",
+      "author": [],
+      "contents": "\r\nI am a Master’s second year Forestry student concentrating in Forest Operations.\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-04-09T10:03:23-07:00"
+    },
+    {
+      "path": "teaching.html",
+      "title": "Untitled",
+      "description": "A new article created using the Distill format.\n",
+      "author": [
+        {
+          "name": "Nora Jones",
+          "url": "https://example.com/norajones"
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-04-09T09:32:11-07:00"
+    }
+  ],
+  "collections": []
+}
