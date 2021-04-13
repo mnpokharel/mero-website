@@ -1,5 +1,17 @@
 ---
 title: "Mandira Pokharel"
+image: "images/pic.jpg"
+links:
+  - label: '`r fontawesome::fa("linkedin", height = "25px")`'
+    url: "https://www.linkedin.com/in/mandira-pokharel-41b385179//"
+  - label: '`r fontawesome::fa("twitter", height = "25px")`'
+    url: "https://twitter.com/"
+  - label: '`r fontawesome::fa("github", height = "25px")`'
+    url: "https://github.com/"
+  - label: '`r fontawesome::fa("envelope", height = "25px")`'
+    url: "mailto:mandirapokharel33@gmail.com"
+output:
+  postcards::jolla
 site: distill::distill_website
 ---
 

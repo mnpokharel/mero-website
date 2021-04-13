@@ -14,3 +14,4 @@ navbar:
     - icon: fab fa-github
       href: https://github.com/aosmith16/personal-website
 output: distill::distill_article
+theme: theme.css
